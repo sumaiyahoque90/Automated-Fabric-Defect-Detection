@@ -1,6 +1,6 @@
 # FabDetector: Automated Fabric Defect Detection using Computer Vision
 
-**CSE400C Capstone Project · Summer 2026 · East West University, Dhaka**
+
 
 A lightweight YOLO-based object detection framework for automated garment quality inspection. The system detects **where** a defect is on the fabric and **what type** it is, and is deployed as a Streamlit web app (**FabDetector**) that works on images and videos.
 
@@ -150,14 +150,8 @@ Make sure `best.pt` is in the same folder as `app.py`.
 
 ---
 
-## Documents
 
-| Resource | Link |
-| --- | --- |
-| Final report (PDF) | [In this repo](Automated_Fabrics_Defect_Detection-Final_Report_CSE400C.pdf) |
-| Final slides (PDF) | [In this repo](Automated_Fabric_Defect%20_Detection%20Final%20Slide.pdf) |
 
----
 
 ## Acknowledgement
 
