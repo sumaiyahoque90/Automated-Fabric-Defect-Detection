@@ -1,0 +1,3 @@
+cd "C:\Users\shahr\Downloads\Fabric Caps\Fabric Caps\Fabric app"
+.\venv\Scripts\Activate.ps1
+streamlit run app.py
